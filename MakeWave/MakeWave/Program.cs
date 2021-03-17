@@ -121,7 +121,7 @@ namespace MakeWave
                 {
                     done = true;
                 }
-                Console.WriteLine(15 + " is the number");
+                Console.WriteLine("Wasn't that fun!?!?!?!");
             }
             
         }
