@@ -1,0 +1,13 @@
+C:\Users\kwaters\dev\MakeWave\MakeWave\bin\Debug\netcoreapp3.1\MakeWave.exe
+C:\Users\kwaters\dev\MakeWave\MakeWave\bin\Debug\netcoreapp3.1\MakeWave.deps.json
+C:\Users\kwaters\dev\MakeWave\MakeWave\bin\Debug\netcoreapp3.1\MakeWave.runtimeconfig.json
+C:\Users\kwaters\dev\MakeWave\MakeWave\bin\Debug\netcoreapp3.1\MakeWave.runtimeconfig.dev.json
+C:\Users\kwaters\dev\MakeWave\MakeWave\bin\Debug\netcoreapp3.1\MakeWave.dll
+C:\Users\kwaters\dev\MakeWave\MakeWave\bin\Debug\netcoreapp3.1\MakeWave.pdb
+C:\Users\kwaters\dev\MakeWave\MakeWave\obj\Debug\netcoreapp3.1\MakeWave.csprojAssemblyReference.cache
+C:\Users\kwaters\dev\MakeWave\MakeWave\obj\Debug\netcoreapp3.1\MakeWave.AssemblyInfoInputs.cache
+C:\Users\kwaters\dev\MakeWave\MakeWave\obj\Debug\netcoreapp3.1\MakeWave.AssemblyInfo.cs
+C:\Users\kwaters\dev\MakeWave\MakeWave\obj\Debug\netcoreapp3.1\MakeWave.csproj.CoreCompileInputs.cache
+C:\Users\kwaters\dev\MakeWave\MakeWave\obj\Debug\netcoreapp3.1\MakeWave.dll
+C:\Users\kwaters\dev\MakeWave\MakeWave\obj\Debug\netcoreapp3.1\MakeWave.pdb
+C:\Users\kwaters\dev\MakeWave\MakeWave\obj\Debug\netcoreapp3.1\MakeWave.genruntimeconfig.cache
