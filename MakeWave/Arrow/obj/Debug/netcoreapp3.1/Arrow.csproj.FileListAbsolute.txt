@@ -1,0 +1,13 @@
+C:\Users\kwaters\dev\MakeWave\Arrow\bin\Debug\netcoreapp3.1\Arrow.exe
+C:\Users\kwaters\dev\MakeWave\Arrow\bin\Debug\netcoreapp3.1\Arrow.deps.json
+C:\Users\kwaters\dev\MakeWave\Arrow\bin\Debug\netcoreapp3.1\Arrow.runtimeconfig.json
+C:\Users\kwaters\dev\MakeWave\Arrow\bin\Debug\netcoreapp3.1\Arrow.runtimeconfig.dev.json
+C:\Users\kwaters\dev\MakeWave\Arrow\bin\Debug\netcoreapp3.1\Arrow.dll
+C:\Users\kwaters\dev\MakeWave\Arrow\bin\Debug\netcoreapp3.1\Arrow.pdb
+C:\Users\kwaters\dev\MakeWave\Arrow\obj\Debug\netcoreapp3.1\Arrow.csprojAssemblyReference.cache
+C:\Users\kwaters\dev\MakeWave\Arrow\obj\Debug\netcoreapp3.1\Arrow.AssemblyInfoInputs.cache
+C:\Users\kwaters\dev\MakeWave\Arrow\obj\Debug\netcoreapp3.1\Arrow.AssemblyInfo.cs
+C:\Users\kwaters\dev\MakeWave\Arrow\obj\Debug\netcoreapp3.1\Arrow.csproj.CoreCompileInputs.cache
+C:\Users\kwaters\dev\MakeWave\Arrow\obj\Debug\netcoreapp3.1\Arrow.dll
+C:\Users\kwaters\dev\MakeWave\Arrow\obj\Debug\netcoreapp3.1\Arrow.pdb
+C:\Users\kwaters\dev\MakeWave\Arrow\obj\Debug\netcoreapp3.1\Arrow.genruntimeconfig.cache
