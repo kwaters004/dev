@@ -122,6 +122,7 @@ namespace MakeWave
                     done = true;
                 }
                 Console.WriteLine("Wasn't that fun!?!?!?!");
+                Console.WriteLine("Riding the wave!!!!");
             }
             
         }
